@@ -1,3 +1,3 @@
-## IMDb Website 
-This is an IMDb Website  Clone Project with Next.js and TailwindCSS. 
-Currently testing out all the Next.js 13 new features and updates.
+## React Query Data Fetching App 
+This is a React Query data-fetching app with Next.js and TailwindCSS. I also made use of Axios and JSON-server (which serves as a fake backend) 
+I am currently testing out all the React Query v4 new features

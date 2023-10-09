@@ -2,6 +2,18 @@
 @tailwind components;
 @tailwind utilities;
 
+nav ul {
+  display: flex;
+  background-color: blanchedalmond;
+  margin-inline-start: 0;
+  padding: 16px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+nav ul li {
+  list-style: none;
+  margin-right: 16px;
+}
 /* :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
